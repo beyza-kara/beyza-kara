@@ -71,7 +71,7 @@ After completing the Department of Architecture and Design at the university, I 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyza-kara&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyza-kara&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
