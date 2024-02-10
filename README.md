@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-After completing the Department of Architecture and Design at the university, I worked as a junior architect in an architecture office for 2 years. About 4 months ago, I moved to the world of technology, where I can constantly renew myself depending on technological developments. Now I am trying to get to know myself in this new world by asking myself the following question: In which area of technology should I contribute to the developments?  
+After completing the Department of Architecture and Design at the university, I worked as a junior architect in an architecture office for 2 years. About one year ago, I moved to the world of technology, where I can constantly renew myself depending on technological developments. Now I am trying to get to know myself in this new world by asking myself the following question: In which area of technology should I contribute to the developments?  
   
 
 <br/>  
